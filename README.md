@@ -1,3 +1,3 @@
 # Handling-Imbalanced-Dataset
 
-<a hrf='https://imbalanced-learn.org/stable/user_guide.html'> Imbalanced learn technique </a>
+<h2> Link for Imbalanced dataset handing technique</h2> https://imbalanced-learn.org/stable/user_guide.html
